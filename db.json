@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Ivy",
+      "image": "https://www.provenwinners.com/sites/provenwinners.com/files/imagecache/500x500/ifa_upload/hedera_patricia.jpg",
+      "price": "7.99",
+      "id": 8
+    },
+    {
+      "name": "Sunflower",
+      "image": "https://www.highmowingseeds.com/media/catalog/product/cache/6cbdb003cf4aae33b9be8e6a6cf3d7ad/7/1/7104-1.jpg",
+      "price": "3.99",
+      "id": 9
     }
   ]
 }
